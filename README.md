@@ -81,7 +81,7 @@ The **Python notebook (`Telecom_churn_prediction.ipynb`)** was used to build pre
 
 ---
 
-## 🔍 Insights
+##  Insights
 - Customers on **month-to-month contracts** have the highest risk of churn.  
 - Churn is strongly linked to the **absence of value-added services** (e.g., online security, premium support).  
 - Predictive analytics helps **identify 411 potential churners**, enabling proactive retention strategies.  
